@@ -1,28 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:55.212260
+#+DATE: 2015-08-30 19:50:55.853771
 #+TITLE: 釋禪波羅蜜次第法門
 #+PROPERTY: CBETA_ID T46n1916
 #+PROPERTY: ID KR6d0144
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1916
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6d0144_T_000-0475a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0144_T_007-0524a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 第七釋禪波羅蜜次第法門卷第七¶
+釋禪波羅蜜次第法門卷第七¶
 ¶
 隋天台智者大師說¶
 弟子法慎記¶
 弟子灌頂再治¶
 
-:PROPERTIES:
-:head: 釋禪波羅蜜修證第七之三(修證亦有漏亦無漏禪)
-:END:
-¶
+釋禪波羅蜜修證第七之三(修證亦有漏亦無漏禪)¶
 
 今約三種法門。以辯亦有漏亦無漏禪。一者¶
 六妙門。二者十六特勝。三者通明觀。此三法¶
