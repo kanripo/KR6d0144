@@ -1,27 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:55.236417
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:47
 #+TITLE: 釋禪波羅蜜次第法門
 #+PROPERTY: CBETA_ID T46n1916
 #+PROPERTY: ID KR6d0144
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1916
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0144_T_000-0475a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0144_T_008-0529a> 
 #+PROPERTY: JUAN 8
 ¶
-
- 第八釋禪波羅蜜次第法門卷第八¶
+釋禪波羅蜜次第法門卷第八¶
 ¶
 隋天台智者大師說¶
 弟子法慎記¶
 弟子灌頂再治¶
 
-:PROPERTIES:
-:head: 釋禪波羅蜜修證第七之四(修證通明觀)
-:END:
-¶
+* 釋禪波羅蜜修證第七之四(修證通明觀)¶
 
 今辨此禪大意為三。一者釋名。二者辨次位。¶
 三者明修證。一釋名者所以此禪名為通明¶
@@ -303,7 +299,7 @@
 身內。次為肝臟。則魂依之。不盜戒力變此¶
 身內以為腎臟則志依之。不婬戒力變此身¶
 內為肺臟則魄依之。不妄語戒力變此身內¶
-以為脾臟則意依之。不飲酒戒力即變身內¶
+以為牌臟則意依之。不飲酒戒力即變身內¶
 以為心臟則神依之。此魂志魄意神五神即¶
 是五識之異名也。五臟宮室既成則神識則¶
 有所栖。既有栖託便須資養五戒業力復變¶

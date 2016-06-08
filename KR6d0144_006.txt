@@ -1,28 +1,24 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:55.182397
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:47
 #+TITLE: 釋禪波羅蜜次第法門
 #+PROPERTY: CBETA_ID T46n1916
 #+PROPERTY: ID KR6d0144
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1916
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0144_T_000-0475a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0144_T_006-0516b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 第六釋禪波羅蜜次第法門卷第六¶
+釋禪波羅蜜次第法門卷第六¶
 ¶
 隋天台智者大師說¶
 弟子法慎記¶
 弟子灌頂再治¶
 
-:PROPERTIES:
-:head: 釋禪波羅蜜修證第七之二
-:END:
-¶
+* 釋禪波羅蜜修證第七之二¶
 
 釋四無量心開為五。第一明次第。第二釋名。¶
 第三明處所。第四明修證。第五明功德。第一¶
