@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:55.236417
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:47
 #+TITLE: 釋禪波羅蜜次第法門
 #+PROPERTY: CBETA_ID T46n1916
 #+PROPERTY: ID KR6d0144
@@ -12,7 +12,8 @@
 #+PROPERTY: JUAN 8
 ¶
 
- 第八釋禪波羅蜜次第法門卷第八¶
+ 第八
+** 4釋禪波羅蜜次第法門卷第八¶
 ¶
 隋天台智者大師說¶
 弟子法慎記¶
